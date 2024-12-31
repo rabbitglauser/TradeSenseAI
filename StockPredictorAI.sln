@@ -1,6 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock-Predictor", "Stock-Predictor\Stock-Predictor.csproj", "{0729AB9B-4C91-4012-A25B-C5BDE565E9FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockPredictorAI", "StockPredictorAI\StockPredictorAI.csproj", "{0729AB9B-4C91-4012-A25B-C5BDE565E9FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StockPredictorAi.tests", "StockPredictorAi.tests", "{9D3870E0-E056-4201-8C74-82DB50ADC7AB}"
+	ProjectSection(SolutionItems) = preProject
+		StockPredictionModelTests.cs = StockPredictionModelTests.cs
+		PricePredictorTest.cs = PricePredictorTest.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
