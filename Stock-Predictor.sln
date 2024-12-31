@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock-Predictor", "Stock-Predictor\Stock-Predictor.csproj", "{0729AB9B-4C91-4012-A25B-C5BDE565E9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0729AB9B-4C91-4012-A25B-C5BDE565E9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0729AB9B-4C91-4012-A25B-C5BDE565E9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0729AB9B-4C91-4012-A25B-C5BDE565E9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0729AB9B-4C91-4012-A25B-C5BDE565E9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
